@@ -1,0 +1,12 @@
+pyrofork
+dnspython
+TgCrypto-pyrofork
+pymongo
+motor
+python-dotenv
+apscheduler
+uvloop
+loguru
+flask
+gunicorn
+requests
